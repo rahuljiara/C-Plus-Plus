@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     char c;
-    cout << "Enter English Letter To Check Upper/Lower Case \t\t";
+    cout << "Enter English Letter To Check Vowel/Consonent \t\t";
     cin >> c;
 
     if (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z')
